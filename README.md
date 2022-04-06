@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dtroyr1
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++ 
-- 💞️ I’m looking to learn from any sofware engineert
+- 💞️ I’m looking to learn from any sofware engineer
